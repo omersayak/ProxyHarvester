@@ -21,7 +21,7 @@ Quick Start Guide:
 
     chmod +x proxyharvester.sh
 
-4- chmod +x proxyharvester.sh
+4- Run the script:
   - To run with default settings:
 
         ./proxyharvester.sh
